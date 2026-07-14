@@ -7,9 +7,9 @@ Passionate about systems architecture, historical immersion, and pushing game en
 ### 🛠️ Featured Projects (Europa Universalis V)
 
 * 🛡️ **[867 - Viking Age Total Conversion](https://github.com/Vendra35/867-Total-Conversion-Test-Mod):** A complete historical overhaul of EU5 to 867 AD. Features a custom dependency-free Python tool (`867_mod_validator.py`) acting as a strict compiler to automate QA, catch engine-level BOM crashes, and generate boilerplate code.
-* 🦅 **[The Prussian Destiny](https://github.com/Vendra35/The-Prussian-Destiny):** A highly acclaimed historical flavor mod with over **6,000+ subscribers**. Employs advanced `TRY:REPLACE` syntax for modular compatibility and dynamic logic gates for AI behavior.
-* 🧠 **[REAI: Rational Empire AI](https://github.com/Vendra35/REAI-Rational-Empire-AI):** A comprehensive script-level overhaul of the vanilla AI. Re-engineers how the AI handles its economy, taxation, and military structure using strict logic gates.
-* ⚔️ **[REAI: Army & Manpower Overhaul](https://github.com/Vendra35/REAI-AI-Army-Manpower-Overhaul):** A highly-optimized, 100% cheat-free script module that forces major AI powers to rationally invest in military infrastructure.
+* 🦅 **[The Prussian Destiny](https://github.com/Vendra35/The-Prussian-Destiny):** A highly acclaimed historical flavor mod with over **2,000+ subscribers**. Employs advanced `TRY:REPLACE` and `TRY:INJECT` syntax for modular compatibility and dynamic logic gates for AI behavior.
+* 🧠 **[REAI: Rational Empire AI](https://github.com/Vendra35/REAI-Rational-Empire-AI):** A comprehensive script-level overhaul of the vanilla AI with over **2,000+ subscribers**. Re-engineers how the AI handles its economy, taxation, and military structure using strict logic gates.
+* ⚔️ **[REAI: Army & Manpower Overhaul](https://github.com/Vendra35/REAI-AI-Army-Manpower-Overhaul):** A highly-optimized, 100% cheat-free script module with over **1,600 subscribers** that forces major AI powers to rationally invest in military infrastructure.
 
 ### 💻 Tech Stack & Skills
 * **Languages & Scripting:** C++, Python, Jomini / Clausewitz Script
