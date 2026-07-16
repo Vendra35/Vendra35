@@ -1,4 +1,4 @@
-# Hi there, I'm Emirhan Altun/Vendra35 👋
+# Hi there, I'm Emirhan
 
 🎮 **Game Developer & Technical Modder** 
 
